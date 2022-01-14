@@ -14,16 +14,16 @@ My Python solutions for [6Companies30Days Challenge](https://www.youtube.com/wat
 | 3   | [Count the subarrays having product less than k] | [![Problem Link](./photos/gfg.svg)](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/) | ✅     |
 | 4   | [Run Length Encoding]                            | [![Problem Link](./photos/gfg.svg)](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/)                                | ✅     |
 | 5   | [Ugly Number]                                    | [![Problem Link](./photos/gfg.svg)](https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/)                                   | ✅     |
-| 6   | [Greatest Common Divisor of Strings]             | [![Problem Link](./photos/lc.svg)](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                  |        |
+| 6   | [Greatest Common Divisor of Strings]             | [![Problem Link](./photos/lc.svg)](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                  | ✅     |
 | 7   | [Find the position of M-th item]                 | [![Problem Link](./photos/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1#)                 | ✅     |
-| 8   | [Total Decoding Messages]                        | [![Problem Link](./photos/gfg.svg)](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/)                        |        |
+| 8   | [Total Decoding Messages]                        | [![Problem Link](./photos/gfg.svg)](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/)                        | ✅     |
 | 9   | [Number following a pattern]                     | [![Problem Link](./photos/gfg.svg)](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1#)                     |        |
 | 10  | [Max 10 numbers in a list having 10M entries]    | [![Problem Link](./photos/gfg.svg)](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1)                              | ✅     |
-| 11  | [Find Missing And Repeating]                     | [![Problem Link](./photos/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/#)                    |        |
-| 12  | [Squares in N\*N Chessboard]                     | [![Problem Link](./photos/gfg.svg)](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1)                        |        |
+| 11  | [Find Missing And Repeating]                     | [![Problem Link](./photos/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/#)                    | ✅     |
+| 12  | [Squares in N\*N Chessboard]                     | [![Problem Link](./photos/gfg.svg)](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1)                        | ✅     |
 | 13  | [Decode the string]                              | [![Problem Link](./photos/gfg.svg)](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)                               |        |
-| 14  | [Minimum Size Subarray Sum]                      | [![Problem Link](./photos/lc.svg)](https://leetcode.com/problems/minimum-size-subarray-sum/)                                           |        |
-| 15  | [Array Pair Sum Divisibility Problem]            | [![Problem Link](./photos/gfg.svg)](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1#)            |        |
+| 14  | [Minimum Size Subarray Sum]                      | [![Problem Link](./photos/lc.svg)](https://leetcode.com/problems/minimum-size-subarray-sum/)                                           | ✅     |
+| 15  | [Array Pair Sum Divisibility Problem]            | [![Problem Link](./photos/gfg.svg)](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1#)            | ✅     |
 
 </details>
 
